@@ -1,0 +1,1 @@
+Laravel message app that allows to add a message using a form, displays the list of messages after the list has been updated, and allows to view each message separately.
